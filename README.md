@@ -181,6 +181,10 @@ flowchart TD
     I --> J[Update Records and Collect Feedback]
     J --> K[Improve Demand Forecasts]
 </CodeBlock>
+
+Diagram :
+<img width="1380" height="903" alt="Screenshot 2026-10-30 223943" src="https://github.com/user-attachments/assets/2ae616a8-33a6-4cdb-97fd-767c1cdc0d3a" />
+
 ## Feasibility and Viability
 
 3.1 Analysis of the Feasibility of the Idea :
